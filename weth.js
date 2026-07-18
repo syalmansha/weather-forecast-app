@@ -12,7 +12,7 @@ const humidity = document.querySelector(".humid");
 
 const windspeed = document.querySelector(".windspeed");
 
-const apiKey =  "3c8b72e5c8e8231c5467de786fc056db";
+const apiKey =  "YOUR-API-KEY";
 
 const icon = document.querySelector(".icon");
 

@@ -14,6 +14,18 @@ A responsive weather application that displays real-time weather information usi
 - Real-time temperature and weather details
 - Responsive user interface
 
+## Setup
+
+1. Get a free API key from OpenWeather.
+2. Open `script.js`.
+3. Replace:
+
+```javascript
+const apiKey = "YOUR_API_KEY_HERE";
+```
+
+with your own API key.
+
 ## How to Run
 1. Download or clone the repository.
 2. Open `index.html` in your browser.
